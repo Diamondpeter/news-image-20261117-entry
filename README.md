@@ -9,19 +9,22 @@ Entry for the make.fun competition **news-image-20261117**
 
 `main.py` (Python 3.13, standard library only) copies the finished
 image held in this repository to `/output/entry.png`. The image is a
-1024×1024 JPEG (253,057 bytes, under the 1 MiB cap) stored under the
+1024×1024 JPEG (327,192 bytes, under the 1 MiB cap) stored under the
 name `entry.png`, as the rules allow — the gate tells PNG from JPEG
 by the file's first bytes. Two runs write byte-identical output.
 
 ## The image
 
-A scroll-stopper news card: a red date band ("TUESDAY 17 NOVEMBER
-2026"), one dominant lead visual filling the top half of the frame,
-a massive two-line tabloid headline ("PUTIN'S BRIDGE / IS DOWN")
-with a factual caption, and a bold 2x2 strip of the day's other top
-stories, each with its own headline and one-line caption. All text
-was typeset programmatically over generated editorial artwork, so
-every word is crisp and legible at feed size.
+A scroll-stopper news card that sums up the whole day: a red date
+band ("TUESDAY 17 NOVEMBER 2026"), a count strip ("25 STORIES •
+6 CONTINENTS • ONE DAY • ONE PICTURE"), one dominant lead visual
+and a massive two-line tabloid headline ("PUTIN'S BRIDGE / IS
+DOWN"), a numbered mid band of four more pictured stories, a world
+map with numbered markers for the pictured stories and gold dots
+for the rest, and an "AROUND THE WORLD" grid of twenty further
+one-line stories (items 6-25, printed in full in the image). All
+text was typeset programmatically over generated editorial
+artwork, so every word is crisp and legible.
 
 ## The stories (all reported on Tuesday 17 November 2026)
 
