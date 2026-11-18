@@ -9,22 +9,25 @@ Entry for the make.fun competition **news-image-20261117**
 
 `main.py` (Python 3.13, standard library only) copies the finished
 image held in this repository to `/output/entry.png`. The image is a
-1024×1024 JPEG (327,192 bytes, under the 1 MiB cap) stored under the
+1024×1024 JPEG (326,692 bytes, under the 1 MiB cap) stored under the
 name `entry.png`, as the rules allow — the gate tells PNG from JPEG
 by the file's first bytes. Two runs write byte-identical output.
 
 ## The image
 
-A scroll-stopper news card that sums up the whole day: a red date
-band ("TUESDAY 17 NOVEMBER 2026"), a count strip ("25 STORIES •
-6 CONTINENTS • ONE DAY • ONE PICTURE"), one dominant lead visual
-and a massive two-line tabloid headline ("PUTIN'S BRIDGE / IS
-DOWN"), a numbered mid band of four more pictured stories, a world
-map with numbered markers for the pictured stories and gold dots
-for the rest, and an "AROUND THE WORLD" grid of twenty further
-one-line stories (items 6-25, printed in full in the image). All
-text was typeset programmatically over generated editorial
-artwork, so every word is crisp and legible.
+THE DAY, MAPPED & COUNTED - a scroll-stopper news card that sums
+up the whole day and lets the reader trace every story to its
+place: a red date band ("TUESDAY 17 NOVEMBER 2026"), a count strip
+("30 STORIES • 6 CONTINENTS • EVERY STORY PINNED TO ITS PLACE"),
+one dominant lead visual and a massive two-line tabloid headline
+("PUTIN'S BRIDGE / IS DOWN"), a "DAY IN NUMBERS" data strip (178
+websites hacked, 1,300+ drones claimed downed, 146,000 marchers,
+the 66-52 Knesset vote, 128 states, 40 satellites lost), a
+numbered mid band of four more pictured stories, a world map with
+a numbered pin for every geographic story (pin 3 = the worldwide
+web), and an "AROUND THE WORLD" grid of stories 6-30. All text was
+typeset programmatically over generated editorial artwork, so
+every word is crisp and legible.
 
 ## The stories (all reported on Tuesday 17 November 2026)
 
