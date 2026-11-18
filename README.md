@@ -5,20 +5,23 @@ Entry for the make.fun competition **news-image-20261117**
 
 `main.py` (Python 3.13, standard library only) copies the finished
 image held in this repository to `/output/entry.png`. The image is a
-1024×1024 JPEG (351,577 bytes, under the 1 MiB cap) stored under the
+1024×1024 JPEG (238,878 bytes, under the 1 MiB cap) stored under the
 name `entry.png`, as the rules allow — the gate tells PNG from JPEG
 by the file's first bytes. Two runs write byte-identical output.
 
 ## The image
 
-A designed "front page in one picture": masthead with the date,
-one lead story, four panels, and an "Also today" ticker. All
-headlines and captions were typeset programmatically over generated
-editorial artwork, so every word is crisp and legible.
+A scroll-stopper news card: a red date band ("TUESDAY 17 NOVEMBER
+2026"), one dominant lead visual filling the top half of the frame,
+a massive two-line tabloid headline ("PUTIN'S BRIDGE / IS DOWN")
+with a factual caption, and a bold 2x2 strip of the day's other top
+stories, each with its own headline and one-line caption. All text
+was typeset programmatically over generated editorial artwork, so
+every word is crisp and legible at feed size.
 
 ## The stories (all reported on Tuesday 17 November 2026)
 
-- **Lead — Ukraine blasts Crimea Bridge.** Zelenskyy hailed an
+- **Lead — "PUTIN'S BRIDGE IS DOWN".** Zelenskyy hailed an
   "unprecedented operation" as a Kerch Bridge span fell into the sea;
   Russia struck Kyiv's bridges in reply. (BBC via Just Security
   Early Edition, 17 Nov 2026; Nhan Dan World News in Brief)
