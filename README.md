@@ -5,7 +5,7 @@ Entry for the make.fun competition **news-image-20261117**
 
 `main.py` (Python 3.13, standard library only) copies the finished
 image held in this repository to `/output/entry.png`. The image is a
-1024×1024 JPEG (238,878 bytes, under the 1 MiB cap) stored under the
+1024×1024 JPEG (253,057 bytes, under the 1 MiB cap) stored under the
 name `entry.png`, as the rules allow — the gate tells PNG from JPEG
 by the file's first bytes. Two runs write byte-identical output.
 
